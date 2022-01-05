@@ -2,5 +2,6 @@ title: About Me
 logo: /assets/img/me.png
 description: A simple about me site for Jarrin Peters.
 show_downloads: false
+is_project_page: false
 google_analytics:
 theme: jekyll-theme-minimal
