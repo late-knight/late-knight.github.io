@@ -10,4 +10,4 @@ And welcome to my page. I'm a recent graduate with a Bachelor's in Applied Mathe
 
 [SUSRC Link](https://www.salisbury.edu/explore-academics/research/summer-research.aspx#ImprovingOptimization-22)
 
-[Mathfest Pi Mu Epsilon](https://www.maa.org/sites/default/files/Programs/Mathfest-program18.pdf)
+[Mathfest Pi Mu Epsilon](https://www.maa.org/sites/default/files/Programs/Mathfest-program18.pdf#page=64)
